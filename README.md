@@ -1,4 +1,4 @@
-# 📊 Financial Document RAG with LangChain & Redis Stack
+# 📊 Financial Document RAG with LangChain & Redis
 
 [![Python 3.12](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)](https://python.org)
 [![LangChain](https://img.shields.io/badge/LangChain-v0.2+-1C3C3C?logo=langchain&logoColor=white)](https://python.langchain.com)
