@@ -1,0 +1,1 @@
+# Financial-Document-RAG-with-LangChain-Redis-Stack
